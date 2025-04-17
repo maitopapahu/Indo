@@ -3,7 +3,7 @@
 
 
 
-$servername = "cluster0.0fs6z.mongodb.net";
+$servername = "charts+67de7fcf99d01f41ca8039ee@mongodb.com";
 $username = "newuser";
 $password = "newuser";
 $database = "Cluster0";
