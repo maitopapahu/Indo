@@ -2,10 +2,10 @@
 
 
 
-$servername = "charts+67de7fcf99d01f41ca8039ee@mongodb.com";
-$username = "newuser";
-$password = "newuser";
-$database = "Cluster0";
+$servername = "mysql-1ba93860-awaisbrothers6-7113.k.aivencloud.com";
+$username = "avnadmin";
+$password = "mysql-1ba93860-awaisbrothers6-7113.k.aivencloud.com";
+$database = "defaultdb";
 $conn = new mysqli($servername , $username , $password , $database);
 if(!$conn){
     echo " CONNECTION TO DATABSE FAILED";
