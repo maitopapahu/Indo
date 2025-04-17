@@ -2,10 +2,10 @@
 
 
 
-$servername = "localhost";
-$username = "bot4_bot";
-$password = "tarun";
-$database = "bot4_ig";
+$servername = "cluster0.0fs6z.mongodb.net";
+$username = "newuser";
+$password = "newuser";
+$database = "Cluster0";
 $conn = new mysqli($servername , $username , $password , $database);
 if(!$conn){
     echo " CONNECTION TO DATABSE FAILED";
