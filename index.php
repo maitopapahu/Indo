@@ -4,7 +4,7 @@
 
 $servername = "mysql-1ba93860-awaisbrothers6-7113.k.aivencloud.com";
 $username = "avnadmin";
-$password = "mysql-1ba93860-awaisbrothers6-7113.k.aivencloud.com";
+$password = "AVNS_pPst7COXGBBJWjoofzd";
 $database = "defaultdb";
 $conn = new mysqli($servername , $username , $password , $database);
 if(!$conn){
